@@ -1,65 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c832f5f-14f9-4710-8f31-640849fbf8b9" name="Default Changelist" comment="my work">
+    <list default="true" id="3c832f5f-14f9-4710-8f31-640849fbf8b9" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/css/business-casual.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/css/business-casual.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/img/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/img/intro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/img/products-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/img/products-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/img/products-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_bootstrap-overrides.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_cta.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_intro.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_products.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_store.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/scss/business-casual.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/store.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/vendor/jquery/jquery.slim.min.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/main/PageController.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/main/configuration/SecurityConfiguration.class" afterDir="false" />
@@ -161,6 +104,7 @@
       <change afterPath="$PROJECT_DIR$/target/classes/templates/vendor/jquery/jquery.slim.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/templates/vendor/jquery/jquery.slim.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/templates/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/about.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -230,11 +174,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="170">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -248,23 +192,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#3698#3704#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/store.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="328">
+              <caret line="151" column="7" selection-start-line="151" selection-start-column="7" selection-end-line="151" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -314,6 +246,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/Contact.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/About.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/store.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/about.html" />
       </list>
     </option>
   </component>
@@ -329,11 +262,6 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/src/main/resources/templates/package.json" />
-    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -420,7 +348,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551389136553" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551389210411" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -475,7 +403,7 @@
       <updated>1550931948710</updated>
       <workItem from="1550931960058" duration="3040000" />
       <workItem from="1550936738014" duration="2136000" />
-      <workItem from="1551380011776" duration="6330000" />
+      <workItem from="1551380011776" duration="6634000" />
     </task>
     <task id="LOCAL-00001" summary="my work">
       <created>1550940224117</created>
@@ -547,11 +475,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551387656727</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="my work">
+      <created>1551389235317</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1551389235317</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11506000" />
+    <option name="totallyTimeSpent" value="11810000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -566,7 +501,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.1785174" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.1785174" />
       <window_info id="Structure" order="1" sideWeight="0.5018868" side_tool="true" weight="0.1785174" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -582,7 +517,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3276923" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32923076" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32917964" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32923076" />
@@ -667,16 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#3698#3704#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/store.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -686,8 +611,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="170">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="151" column="7" selection-start-line="151" selection-start-column="7" selection-end-line="151" selection-end-column="7" />
         </state>
       </provider>
     </entry>
